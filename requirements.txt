@@ -3,5 +3,5 @@ beautifulsoup4
 pandas
 numpy
 scipy
-matploblib
+matplotlib
 os
